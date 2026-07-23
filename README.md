@@ -2,7 +2,7 @@
 
 
 The Texas Instruments LP-MSPM0C1104 is an evaluation module based on the MSPM0C1104. It can be utilized for programming and debugging embedded systems in a small form factor.
-You can purchase it at [ti.com](https://www.ti.com/tool/LP-MSPM0C1104?srsltid=AfmBOoqOP21oqCMv9N1ad9wrFhPPuO93g0GUF3w4jJl7DOePrYvU7FrK)
+You can purchase it at [ti.com](https://www.ti.com/tool/LP-MSPM0C1104?srsltid=AfmBOoqOP21oqCMv9N1ad9wrFhPPuO93g0GUF3w4jJl7DOePrYvU7FrK).
 
 ## How to Setup the Ada Development Environment for the MSPM0C1104
 
