@@ -11,5 +11,7 @@ TBD
 ## Building the Example Project
 
 To build the example, make sure all tools are on the PATH and run:
+
 `$ gprbuild -f -p -P mspm0c1104_example.gpr -XPLATFORM_BUILD=Debug`
+
 Flash the example to the board using <>.
