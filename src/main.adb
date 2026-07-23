@@ -30,7 +30,7 @@
 --                                                                          --
 ------------------------------------------------------------------------------
 
-with PGA460PSM-EVM.Time; use PGA460PSM-EVM.Time;
+with MSPM0C1104.Time; use MSPM0C1104.Time;
 with Ada.Text_IO; use Ada.Text_IO;
 
 procedure Main is
